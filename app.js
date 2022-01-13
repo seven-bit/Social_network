@@ -9,6 +9,10 @@ app.use(express.json())
 
 
 
+app.get('/', function (_, res) {
+    res.send("<h1>Server Working</h1>");
+  })
+
 
 
 
