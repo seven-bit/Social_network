@@ -15,16 +15,16 @@ Your can use POSTMAN to check the working, API Endpoints are given below
     <th>Password</th>
   </tr>
   <tr>
-    <td>demo@gmail.com</td>
-    <td>demopassword</td>
+    <td>dummy1@gmail</td>
+    <td>dummy1@123</td>
   </tr>
   <tr>
-    <td>demo2@gmail.com</td>
-    <td>demopassword</td>
+    <td>dummy2@gmail.com</td>
+    <td>dummy2@123</td>
   </tr>
   <tr>
-    <td>demo3@gmail.com</td>
-    <td>demopassword</td>
+    <td>dummy3@gmail.com</td>
+    <td>dummy3@123</td>
   </tr>
 </table>
 
